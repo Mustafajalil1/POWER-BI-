@@ -1,3 +1,5 @@
+![picture](https://thumbs.dreamstime.com/b/cargo-container-flag-bahrain-lifted-crane-freight-terminal-d-illustration-376333910.jpg)
+
 # Bahrain Imports Dashboard (2020-2023)
 ---
 ## Dashboard Overview 
