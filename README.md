@@ -13,3 +13,4 @@ This Power BI dashboard provides an insightful overview of Bahrain's import data
 
 ## Data Sources
 [Bahrain Import Source](https://www.data.gov.bh/pages/homepage/)
+[Power BI file](https://drive.google.com/file/d/1rrSN86hZe3jDRSCC_-t_AoEz0Ol6k6U_/view?usp=sharing)
